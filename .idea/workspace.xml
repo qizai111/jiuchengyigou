@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/api/controller/store/StoreProductController.php" line="126" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9878044-263a-4a50-8cb6-3692f20dc5a7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/api.zyyxcx.com/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/admin/view/activity/activity_goods/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="93" column="166" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="166" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/admin/view/workers/examine/worker.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1521">
+              <caret line="30" column="95" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/admin/controller/activity/ActivityGoods.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+              <folding>
+                <element signature="e#48#88#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/admin/controller/activity/ActivityReceive.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="626">
+              <caret line="56" column="53" lean-forward="true" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
+              <folding>
+                <element signature="e#50#81#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/admin/view/activity/activity_receive/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="28" column="58" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/admin/view/agent/agent_manage/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="698">
+              <caret line="57" column="45" lean-forward="true" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/admin/controller/agent/AgentManage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5">
+              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>order</find>
+      <find>Db</find>
+      <find>is_mer_check</find>
+      <find>$attrInfo</find>
+      <find>is_good</find>
+      <find>导出</find>
+      <find>order/pay</find>
+      <find>index</find>
+      <find>getGoodList</find>
+      <find>good</find>
+      <find>getHotProductLoading</find>
+      <find>SaveExcel</find>
+      <find>支付成功</find>
+      <find>StoreOrderPrint</find>
+      <find>order_robot</find>
+      <find>payType</find>
+      <find>count</find>
+      <find>countSeckill</find>
+      <find>seckill</find>
+      <find>brass_rebate</find>
+      <find>get_s</find>
+      <find>statusCn</find>
+      <find>seckillList</find>
+      <find>mp_</find>
+      <find>等级</find>
+      <find>getUserGrade</find>
+      <find>item</find>
+      <find>dataList</find>
+      <find>certificate</find>
+      <find>search</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/admin/controller/Login.php" />
+        <option value="$PROJECT_DIR$/CRMEB/repositories/OrderRepository.php" />
+        <option value="$PROJECT_DIR$/app/models/user/User.php" />
+        <option value="$PROJECT_DIR$/app/models/base/Base.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/store/StoreProductReply.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/order/StoreOrderPrintController.php" />
+        <option value="$USER_HOME$/Desktop/ushengyun/examples/print.php" />
+        <option value="$PROJECT_DIR$/config/alibaba.php" />
+        <option value="$PROJECT_DIR$/config/ushengyun.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/order/StoreOrder.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/employer/Category.php" />
+        <option value="$PROJECT_DIR$/app/models/employer/YgCategory.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/workers/examine/worker.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/workers/Examine.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/workers/lists/worker.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/workers/Lists.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/AuthController.php" />
+        <option value="$PROJECT_DIR$/app/admin/readme.txt" />
+        <option value="$PROJECT_DIR$/app/admin/view/live/live_broadcast/index.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/live/live.php" />
+        <option value="$PROJECT_DIR$/app/admin/model/system/SystemGroupData.php" />
+        <option value="$PROJECT_DIR$/CRMEB/traits/ModelTrait.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/setting/SystemGroupData.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/live/live_broadcast/videotape.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/live/liveBroadcast.php" />
+        <option value="$PROJECT_DIR$/app/models/user/UserBillActivity.php" />
+        <option value="$PROJECT_DIR$/app/models/user/UserSignActivity.php" />
+        <option value="$PROJECT_DIR$/app/models/store/StoreOrder.php" />
+        <option value="$PROJECT_DIR$/app/models/user/UserSign.php" />
+        <option value="$PROJECT_DIR$/app/models/user/UserActivityBill.php" />
+        <option value="$PROJECT_DIR$/app/models/user/UserActivitySign.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/user/UserController.php" />
+        <option value="$PROJECT_DIR$/app/admin/model/order/StoreOrder.php" />
+        <option value="$PROJECT_DIR$/app/models/store/StoreProduct.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/PublicController.php" />
+        <option value="$PROJECT_DIR$/config/roboot.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/order/StoreOrderPrint.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/order/StoreOrderController.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/order/StoreRootController.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/order/store_order/index.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/admin/controller/activity/activityGoods.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/index/index.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/store/StoreProduct.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/activity/ActivityGoods.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/activity/activity_goods/index.php" />
+        <option value="$PROJECT_DIR$/route/api/route.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/user/UserLevelController.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/activity/ActivityReceive.php" />
+        <option value="$PROJECT_DIR$/app/admin/view/activity/activity_receive/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-view" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-multi-app" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-template" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-queue" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-factory" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-cache" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-image" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-orm" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-log" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/framework" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/topthink/think-container" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/dh2y/think-qrcode" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/league/flysystem-cached-adapter" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/guzzle/guzzle" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/qcloud/cos-sdk-v5" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/composer" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/phpoffice/phpexcel" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/overtrue/socialite" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/overtrue/wechat" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/aliyuncs/oss-sdk-php" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/qiniu/php-sdk" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/xaboy/form-builder" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/spatie/macroable" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/workerman/channel" />
+      <path value="$PROJECT_DIR$/api.zyyxcx.com/vendor/workerman/workerman" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="435" />
+    <option name="y" value="83" />
+    <option name="width" value="1396" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="agent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="workers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+              <item name="activity_goods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="agent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="agent" type="462c0819:PsiDirectoryNode" />
+              <item name="agent_manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="workers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="workers" type="462c0819:PsiDirectoryNode" />
+              <item name="examine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api.zyyxcx.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api.zyyxcx.com" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/admin/view/activity/activity_receive" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\api.zyyxcx.com\app\admin\view\activity\activity_receive" />
+      <recent name="D:\phpstudy_pro\WWW\api.zyyxcx.com\app\admin\view\activity\activity_goods" />
+      <recent name="D:\phpstudy_pro\WWW\api.zyyxcx.com\app\admin\view\workers\lists" />
+      <recent name="D:\phpstudy_pro\WWW\api.zyyxcx.com\app\admin\view" />
+      <recent name="D:\phpstudy_pro\WWW\api.zyyxcx.com\app\admin\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\api.zyyxcx.com\app\admin\controller\order" />
+      <recent name="D:\phpstudy_pro\WWW\api.zyyxcx.com\app\api\controller\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9878044-263a-4a50-8cb6-3692f20dc5a7" name="Default Changelist" comment="" />
+      <created>1583981954404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583981954404</updated>
+      <workItem from="1583981955602" duration="279000" />
+      <workItem from="1583982236735" duration="29078000" />
+      <workItem from="1584321255799" duration="14566000" />
+      <workItem from="1584345610273" duration="29688000" />
+      <workItem from="1584515438162" duration="24410000" />
+      <workItem from="1584666690202" duration="734000" />
+      <workItem from="1584668661679" duration="49422000" />
+      <workItem from="1585013543766" duration="23483000" />
+      <workItem from="1585118770711" duration="9108000" />
+      <workItem from="1585130579812" duration="6723000" />
+      <workItem from="1585193684557" duration="3865000" />
+      <workItem from="1585206452518" duration="88286000" />
+      <workItem from="1585706126076" duration="17198000" />
+      <workItem from="1585792054743" duration="75531000" />
+      <workItem from="1586307737598" duration="31428000" />
+      <workItem from="1586395180829" duration="8596000" />
+      <workItem from="1586480362951" duration="7403000" />
+      <workItem from="1586488081930" duration="18493000" />
+      <workItem from="1586567517540" duration="7639000" />
+      <workItem from="1586740282077" duration="26562000" />
+      <workItem from="1586932448922" duration="11167000" />
+      <workItem from="1586999457422" duration="73530000" />
+      <workItem from="1587364868561" duration="36956000" />
+      <workItem from="1587540887984" duration="7876000" />
+      <workItem from="1587603891554" duration="1103000" />
+      <workItem from="1587696821037" duration="3005000" />
+      <workItem from="1587780859235" duration="5207000" />
+      <workItem from="1587950957227" duration="12859000" />
+      <workItem from="1588036124253" duration="5506000" />
+      <workItem from="1588122658836" duration="4962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="634663000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20095949" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/filesystem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/log.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/oss.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/queue.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/roboot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/alibaba.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.example.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.version">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.constant">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Extensions/MySQL5.7.26/data/DESKTOP-FL9LDEF.err" />
+    <entry file="file://$PROJECT_DIR$/../../Extensions/MySQL5.7.26/data/ibdata1">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Extensions/MySQL5.7.26/data/DESKTOP-FL9LDEF.pid">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Extensions/MySQL5.7.26/data/binlog.000001" />
+    <entry file="file://$PROJECT_DIR$/app/admin/model/order/StoreOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/order/StoreOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="86" column="62" selection-start-line="86" selection-start-column="62" selection-end-line="86" selection-end-column="62" />
+          <folding>
+            <element signature="e#6#72#0#PHP" expanded="true" />
+            <element signature="e#112#152#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/order/store_order/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="543" column="64" selection-start-line="543" selection-start-column="64" selection-end-line="543" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/public/404.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/model/ump/StoreSeckill.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4921">
+          <caret line="268" column="27" selection-start-line="268" selection-start-column="27" selection-end-line="268" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/ump/store_seckill/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="69" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/public/head.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/public/frame_head.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="49" column="48" lean-forward="true" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/topthink/think-orm/src/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="790" lean-forward="true" selection-start-line="790" selection-end-line="790" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/store/StoreProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="379" column="38" lean-forward="true" selection-start-line="379" selection-start-column="38" selection-end-line="379" selection-end-column="38" />
+          <folding>
+            <element signature="e#46#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/model/store/StoreProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/ump/StoreSeckill.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/controller/BaiduController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/controller/wechat/WechatController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/system/SystemUserLevel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="166" column="27" selection-start-line="166" selection-start-column="27" selection-end-line="166" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/system/SystemUserTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="289" column="27" selection-start-line="289" selection-start-column="27" selection-end-line="289" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/store/StoreProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="295" column="34" lean-forward="true" selection-start-line="295" selection-start-column="34" selection-end-line="295" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/store/StoreCart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="190" column="99" lean-forward="true" selection-start-line="190" selection-start-column="99" selection-end-line="190" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/route/api/route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="142" column="102" lean-forward="true" selection-start-line="142" selection-start-column="102" selection-end-line="142" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/controller/user/UserLevelController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+          <folding>
+            <element signature="e#42#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user/UserLevel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="150" column="33" selection-start-line="150" selection-start-column="28" selection-end-line="150" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/controller/wechat/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/controller/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="44" column="61" lean-forward="true" selection-start-line="44" selection-start-column="61" selection-end-line="44" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/controller/PublicController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2661">
+          <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/workers/Examine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/controller/user/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="491" column="140" selection-start-line="491" selection-start-column="96" selection-end-line="491" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/workers/examine/worker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1521">
+          <caret line="30" column="95" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/activity/activity_goods/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="93" column="166" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/activity/ActivityReceive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="56" column="53" lean-forward="true" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
+          <folding>
+            <element signature="e#50#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/activity/ActivityGoods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding>
+            <element signature="e#48#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/agent/AgentManage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/activity/activity_receive/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/view/agent/agent_manage/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="57" column="45" lean-forward="true" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
